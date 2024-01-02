@@ -12,6 +12,17 @@ The CluedIn platform provides data management processes and pillars into a coher
 
 Use CluedIn to migrate your master data services solution to Azure, by using CluedIn and Azure Purview.
 
+[CluedIn & Microsoft Purview: Master Data Management](https://www.cluedin.com/product/microsoft-purview-mdm-integration)
+
+CluedIn and Microsoft Purview MDM offer a unified, scalable, and transparent means to manage, govern and derive insights from data.
+
+[Microsoft Fabric with CluedIn MDM](https://www.cluedin.com/microsoft-fabric)
+
+Ensure your business is ready for AI and advanced analytics with Azure native Master Data Management.
+
+[Master Data Management with Azure OpenAI](https://www.cluedin.com/azureopenai)
+
+Reduce manual work by a factor of 50:1, and perform powerful data engineering without any technical expertise - just type out a command in any language, hit 'Enter' and let CluedIn master your data instantly.
 
 ### Links
 
